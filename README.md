@@ -10,5 +10,5 @@ This is a simple tool to patch and Inject/Patch EFI modules at runtime, I develo
 * boot from the USB
 
 # Credits
-*Thanks for [c6nst](https://github.com/c6nst) for the [guide](https://github.com/c6nst/acer-nitro-v-15)
-*Special thanks for [barlowhaydnb](https://github.com/barlowhaydnb/SmokelessRuntimeEFIPatcher) for reuploading SmokelessCPUv2's SREP-injector
+* Thanks for [c6nst](https://github.com/c6nst) for the [guide](https://github.com/c6nst/acer-nitro-v-15)
+* Special thanks for [barlowhaydnb](https://github.com/barlowhaydnb/SmokelessRuntimeEFIPatcher) for reuploading SmokelessCPUv2's SREP-injector
