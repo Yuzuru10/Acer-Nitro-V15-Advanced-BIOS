@@ -1,5 +1,5 @@
 # Discaimer
-**Use this at your own risk,I won’t be responsible for any damage.**
+**Use this at your own risk, I won’t be responsible for any damage.**
 
 # What is this
 This is a simple tool to patch and Inject/Patch EFI modules at runtime, I developed this as I wasn't confortable with SPI flashing, as is not boring and require opening the laptop for every small change, as with AMD you can't flash from the OS a new BIOS, if is not signed...
