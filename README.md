@@ -1,12 +1,11 @@
 # Discaimer
 **Use this at your own risk, I won’t be responsible for any damage.**
-
 # What is this
 This is a simple tool to patch and Inject/Patch EFI modules at runtime, I developed this as I wasn't confortable with SPI flashing, as is not boring and require opening the laptop for every small change, as with AMD you can't flash from the OS a new BIOS, if is not signed...
 
 # How to use it
 * Download the Latest zip
-* extract it in root of the USB
+* extract it in root of the USB make sure that your USB is FAT32
 * boot from the USB
 
 # Credits
